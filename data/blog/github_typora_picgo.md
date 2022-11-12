@@ -3,7 +3,7 @@ title: github+typora+picgo
 date: '2022-03-08'
 tags: ['github', 'config']
 draft: false
-summary: Example of Cpp
+summary: To Build a personal picture bed
 ---
 
 

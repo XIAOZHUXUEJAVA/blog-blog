@@ -12,9 +12,9 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'xiaozhuzhulzq@163.com',
   github: 'https://github.com/XIAOZHUXUEJAVA',
-  twitter: 'https://twitter.com/Twitter',
+  twitter: 'https://twitter.com/xiaozhulzq',
   facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
+  youtube: 'https://www.youtube.com/channel/UCzvNn32pRpKMSWaYBElFD7A',
   linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analytics: {
