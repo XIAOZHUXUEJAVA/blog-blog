@@ -1,11 +1,9 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'CSDN在哪里?',
+    description: `来中文社区看我的博客！`,
+    imgSrc: '/static/images/csdn.png',
+    href: 'https://blog.csdn.net/qq_54650406?type=blog',
   },
   {
     title: 'The Time Machine',
