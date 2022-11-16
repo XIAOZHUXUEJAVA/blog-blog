@@ -14,3 +14,5 @@ I don't want to look back on my past experiences because I lost a lot of things 
 I just want to grasp the moment.
 
 I also want to look to the future.
+
+go go go
