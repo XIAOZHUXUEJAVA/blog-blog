@@ -99,7 +99,7 @@ func TestFindMiddleNode(t *testing.T) {
 
 ## c++
 
-```c++
+```c
 //
 // Created by xiaoz on 2022/11/9.
 //

@@ -217,7 +217,7 @@ if __name__ == "__main__":
 
 ## c++
 
-```c++
+```c
 //
 // Created by xiaoz on 2022/11/13.
 //
