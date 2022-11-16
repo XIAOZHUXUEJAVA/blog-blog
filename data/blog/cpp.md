@@ -1,9 +1,9 @@
 ---
-title: cpp demo
+title: cpp singlylinkedlist
 date: '2022-03-08'
 tags: ['c++']
 draft: false
-summary: Example of Cpp
+summary: SinglyLinkedList Example of Cpp
 ---
 
 ```cpp
@@ -110,13 +110,6 @@ int main() {
     cout<<list->size;
     return 0;
 }
-
-
-
-
-
-
-
 
 ```
 
