@@ -16,6 +16,7 @@ const siteMetadata = {
   facebook: 'https://facebook.com',
   youtube: 'https://www.youtube.com/channel/UCzvNn32pRpKMSWaYBElFD7A',
   linkedin: 'https://www.linkedin.com',
+  qq: 'https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202211172305474.png',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
