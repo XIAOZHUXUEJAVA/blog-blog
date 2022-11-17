@@ -1,18 +1,38 @@
 ---
 name: Xiao Zhu
 avatar: /static/images/avatar.png
-occupation: Student of SDJZU
-company: I am studying hard for it
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
+occupation: A Student
+company: no company and just like coding
+email: xiaozhuzhulzq@163.com
+twitter: https://twitter.com/xiaozhulzq
 linkedin: https://www.linkedin.com
 github: https://github.com/XIAOZHUXUEJAVA
 ---
 
+
+*Favorite music*
+
+
+《晴天》
+
+《晴天》
+
+《晴天》
+
+《晴天》
+
+
+
+*In my heart*
+
 I don't want to look back on my past experiences because I lost a lot of things I thought were important.
+
 
 I just want to grasp the moment.
 
+
 I also want to look to the future.
 
-go go go
+
+You are not a drop in the ocean; you are the entire ocean in a drop. 
+

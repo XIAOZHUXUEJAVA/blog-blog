@@ -6,11 +6,10 @@ const projectsData = [
     href: 'https://blog.csdn.net/qq_54650406?type=blog',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
+    title: '最近在读',
+    description: `《隐形时代》，看到这个评论觉得很有意思：就像是玩蚂蚁一样，有一次我用花露水画了一个圆圈困住三只蚂蚁，我的想法是只要它们其中一个能活着出来就放了它们，结果了
+    全部倒在了里面圈。为什么困住它们，因为它们出现在我的桌子上。`,
+    imgSrc: '/static/images/R.png',
     href: '/blog/the-time-machine',
   },
 ]
