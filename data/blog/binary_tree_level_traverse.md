@@ -15,6 +15,7 @@ public List<List<Integer>> levelOrder(TreeNode root) {
         if (root == null) {
             return res;
         }
+        //
         // 层次遍历序列： 1 2 3 4 5 6
         Queue<TreeNode> q = new LinkedList<>();
         // 将根结点加入到新建的队列当中

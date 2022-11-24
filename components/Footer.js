@@ -14,6 +14,7 @@ export default function Footer() {
           {/* <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size="6" /> */}
           {/* <SocialIcon kind="twitter" href={siteMetadata.twitter} size="6" /> */}
           {/* <SocialIcon kind="kevicons-talk" href={siteMetadata.qq} size="6" /> */}
+          {/* sasasasasa */}
 
           <a href={siteMetadata.qq}>
             <svg fill="#50c8fd" viewBox="0 0 24 24" width="22" height="22">
