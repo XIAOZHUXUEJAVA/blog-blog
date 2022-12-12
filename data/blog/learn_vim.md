@@ -1,9 +1,9 @@
 ---
 title: Learn Vim
-date: '2022-12-11'
+date: '2022-12-12'
 tags: ['vim']
 draft: false
-summary: Learn Vim 
+summary: Learning Vim Is A Long Journey
 ---
 # Learn Vim
 ## 移动命令
@@ -19,9 +19,9 @@ summary: Learn Vim
 ## 注释命令
 | 按键 | 描述 |
 | ----- | ----- |
-| gcc | 注释 |
+| gcc | 注释, 也是快速注释当前行 |
 | gc2j | 注释下两行(当前光标所在位置) |
-
+| v + $ + gcc | 选中并注释 |
 ## 复制粘贴命令
 | 按键 | 描述 |
 | ----- | ----- |
@@ -34,6 +34,11 @@ summary: Learn Vim
 | dd | 删除光标所在的一整行 |
 | 5dd | 删除光标以后的五行 |
 
+## 撤销反撤销
+| 按键 | 描述 |
+| ----- | ----- |
+| u | 撤销 |
+| ctrl + r | 反撤销 |
 ## 个性化操作
 | 按键 | 描述 |
 | ----- | ----- |
