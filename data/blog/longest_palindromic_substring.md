@@ -1,5 +1,5 @@
 ---
-title: 最长回文字串
+title: 最长回文子串
 date: '2022-12-15'
 tags: ['java', 'go', 'c++', 'datastructrue']
 draft: false
