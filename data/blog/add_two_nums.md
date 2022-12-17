@@ -5,14 +5,13 @@ tags: ['java', 'go', 'c++', 'datastructrue']
 draft: false
 summary: Add Two Numbers
 ---
+
 # 两数相加
 
 ## java
 
 ```java
-package com.zhu.algorithms.leetcode.lists;
 
-import com.zhu.algorithms.leetcode.base.ListNode;
 
 /**
  * @description: AddTwoNums
@@ -21,22 +20,10 @@ import com.zhu.algorithms.leetcode.base.ListNode;
  * @version: 1.0
  */
 public class AddTwoNums {
-    public static void main(String[] args) {
-        ListNode l1 = new ListNode(2);
-        l1.next = new ListNode(4);
-        l1.next.next = new ListNode(3);
-        ListNode l2 = new ListNode(5);
-        l2.next = new ListNode(6);
-        l2.next.next = new ListNode(4);
-        AddTwoNums test = new AddTwoNums();
-        ListNode newListNode = test.addTwoNumbers(l1, l2);
-        newListNode.display();
-    }
-
-
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode p1 = l1;
         ListNode p2 = l2;
+        // 使用虚拟结点
         ListNode dummy = new ListNode(-1);
         ListNode p = dummy;
         int carryDigit = 0;
@@ -62,8 +49,6 @@ public class AddTwoNums {
 }
 
 ```
-
-
 
 ## go
 
@@ -123,4 +108,3 @@ ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         return dummy->next;
     }
 ```
-
