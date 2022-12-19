@@ -1,6 +1,6 @@
 ---
 title: Learn Vim
-date: '2022-12-17'
+date: '2022-12-19'
 tags: ['vim']
 draft: false
 summary: Learning Vim Is A Long Journey
@@ -36,10 +36,12 @@ summary: Learning Vim Is A Long Journey
 
 ## 删除操作
 
-| 按键 | 描述                 |
-| ---- | -------------------- |
-| dd   | 删除光标所在的一整行 |
-| 5dd  | 删除光标以后的五行   |
+| 按键 | 描述                           |
+| ---- | ------------------------------ |
+| dd   | 删除光标所在的一整行           |
+| 5dd  | 删除光标以后的五行             |
+| dw   | 删除某个单词到到单词结束的位置 |
+| db   | 删除某个单词到到单词开始的位置 |
 
 ## 撤销反撤销
 
