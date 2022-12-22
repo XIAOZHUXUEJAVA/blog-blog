@@ -738,3 +738,6 @@ In this example, the criterion for comparison is the value of a certain property
 For example, if the value of `props.order` is `'title'`, then the sorting function will sort the objects based on their `title` property. Therefore, the comparison statement would become `a.title > b.title`.
 
 The square bracket syntax `[props.order]` allows for dynamic access to an object's property. This way, when the value of `props.order` changes, the property being compared will also change.
+
+The final result
+![image-20221222184301835](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212221843998.png)
