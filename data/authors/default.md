@@ -9,23 +9,10 @@ linkedin: https://www.linkedin.com
 github: https://github.com/XIAOZHUXUEJAVA
 ---
 
+_Favorite music_
 
-*Favorite music*
+《晴天》
 
+_Favorite Game_
 
-《qingtian》
-
-
-*In my heart*
-
-I don't want to look back on my past experiences because I lost a lot of things I thought were important.
-
-
-I just want to grasp the moment.
-
-
-I also want to look to the future.
-
-
-You are not a drop in the ocean; you are the entire ocean in a drop. 
-
+《Sekiro》
