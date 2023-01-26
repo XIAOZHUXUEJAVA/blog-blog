@@ -1,7 +1,7 @@
 ---
-title: 删除链表中的倒数第N个结点-----复习
+title: 删除数组中的指定元素-----复习
 date: '2023-01-24'
-tags: ['java', 'go', 'c++', 'datastructrue']
+tags: ['java', 'go', 'c++', 'datastructrue', 'review']
 draft: false
 summary: Remove Element From Array
 ---
