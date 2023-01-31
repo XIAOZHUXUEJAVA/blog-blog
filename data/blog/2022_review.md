@@ -60,10 +60,11 @@ summary: Annual Review
 
 - 科学上网 + google +github + chatGPT = 搜索
 
-- markdown + typora + gihub + picgo = 笔记
+- markdown + typora + github + picgo = 笔记
 
-- vscode + docker + linux + vim = go + vue + cpp
-- Jet 系列 IDE + vim = java
+- vscode + docker + linux + vim = 开发环境 1
+
+- Jet 系列 IDE + vim = 开发环境 2
 
 我正在使用这些来学习，希望我是对的。
 
@@ -74,7 +75,6 @@ summary: Annual Review
 ### 1.4 正在做的
 
 - 使用 go 重写 nodejs 的项目
-
 - 学习 vim
 - 刷题
 
