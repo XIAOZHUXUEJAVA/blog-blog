@@ -1,5 +1,5 @@
 ---
-title: Rustlings-Structs
+title: Rust-Structs
 date: '2023-02-24'
 tags: ['rust']
 draft: false
