@@ -1,3 +1,11 @@
+---
+title: Rust-Modules
+date: '2023-02-27'
+tags: ['rust']
+draft: false
+summary: Learn Rust (Just For Fun)
+---
+
 # Rust-Modules
 
 ## modules1.rs
