@@ -129,6 +129,27 @@ func bubbleSortWithFlag(nums []int) {
 }
 ```
 
+## 回文字符串
+
+```go
+func isPalindrome(s string) bool {
+	if len(s) == 0 {
+		return false
+	}
+	low := 0
+	high := len(s) - 1
+	for low <= high {
+		if s[low] != s[high] {
+			return false
+		}
+		low++
+		high--
+	}
+	return true
+}
+
+```
+
 ## 测试
 
 ```go
@@ -166,4 +187,23 @@ func TestBubbleSort(t *testing.T) {
 	bubbleSortWithFlag(nums2)
 	fmt.Println(nums2)
 }
+```
+
+```go
+func isPalindrome(s string) bool {
+	if len(s) == 0 {
+		return false
+	}
+	low := 0
+	high := len(s) - 1
+	for low <= high {
+		if s[low] != s[high] {
+			return false
+		}
+		low++
+		high--
+	}
+	return true
+}
+
 ```

@@ -1,6 +1,6 @@
 ---
 title: 不同路径
-date: '2023-01-31'
+date: '2023-03-08'
 tags: ['java', 'go', 'c++', 'rust', 'datastructrue']
 draft: false
 summary: Unique Paths
