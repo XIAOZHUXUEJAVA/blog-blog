@@ -1,5 +1,5 @@
 ---
-title: Mybaits Quick Start
+title: Mybatis Quick Start
 date: '2023-03-12'
 tags: ['java', 'mybatis']
 draft: false
