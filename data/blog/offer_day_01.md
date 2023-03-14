@@ -1,5 +1,5 @@
 ---
-title: 剑指Offer-Day01
+title: 剑指Offer-算法篇-Day01
 date: '2023-03-11'
 tags: ['java', 'offer']
 draft: false
