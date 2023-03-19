@@ -6,7 +6,7 @@ draft: false
 summary: For Job
 ---
 
-# 剑指 Offer-Day01
+# 剑指 Offer-算法篇-Day01
 
 ## 用栈实现两个队列
 
