@@ -6,23 +6,23 @@ draft: false
 summary: record a bug in wsl2
 ---
 
-# 打开wsl2，显示 [已退出进程，代码为 4294967295] 的解决方案
+# 打开 wsl2，显示 [已退出进程，代码为 4294967295] 的解决方案
 
-不知从哪天开始，我的电脑打开wsl2 Ubuntu-20.04 和 window版的docker会出现这种情况
+不知从哪天开始，我的电脑打开 wsl2 Ubuntu-20.04 和 window 版的 docker 会出现这种情况
 
 ![image-20221209102257252](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212091022318.png)
 
-并且我尝试在管理员模式:命令提示符使用命令wsl直接进入Ubuntu20.04，会提示出现“参考的对象类型不支持尝试的操作”的情况
+并且我尝试在管理员模式:命令提示符使用命令 wsl 直接进入 Ubuntu20.04，会提示出现“参考的对象类型不支持尝试的操作”的情况
 
 ## 方案一
 
-1. 以管理员身份运行windows terminal
+1. 以管理员身份运行 windows terminal
 
-2. 输入netsh winsock reset
+2. 输入 netsh winsock reset
 
-3. 重新打开windows terminal
+3. 重新打开 windows terminal
 
- 出现这种情况后，第一时间我是去bing搜索，在csdn中文社区找到了方案一，此方案虽然对我适用，但是还是会出现这样的问题，于是去google上寻找答案
+出现这种情况后，第一时间我是去 bing 搜索，在 csdn 中文社区找到了方案一，此方案虽然对我适用，但是还是会出现这样的问题，于是去 google 上寻找答案
 
 ## 方案二
 
@@ -45,11 +45,11 @@ net start HvHost & net stop HvHost & net start HvHost
 
 尝试使用下载工具解决
 
-* 下载工具
+- 下载工具
 
- http://file2.happyjava.cn/NoLsp.exe
+http://file2.happyjava.cn/NoLsp.exe
 
-* 或者在以下github仓中找到我们需要的可执行文件
+- 或者在以下 github 仓中找到我们需要的可执行文件
 
 https://github.com/dyingsu/nolsp
 
@@ -73,19 +73,6 @@ https://github.com/dyingsu/nolsp
 
 ### 原因：
 
-目前未知，github上的说法是：代理软件和wsl2的sock端口冲突，使用netsh winsock reset重置修复。
+目前未知，github 上的说法是：代理软件和 wsl2 的 sock 端口冲突，使用 netsh winsock reset 重置修复。
 
 笔者水平有限，不能对此错误做出解释。
-
-
-
-
-
-
-
-
-
-
-
-
-
