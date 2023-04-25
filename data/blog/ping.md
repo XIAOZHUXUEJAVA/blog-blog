@@ -33,3 +33,8 @@ summary: Daily Littel Knowledge Points
 ```shell
 curl -i google.com
 ```
+
+"curl -i google.com" 是一个终端命令，用于向网站 "google.com" 发送 HTTP 请求，并在终端中返回响应头。 "-i" 标志告诉 curl 将响应头与响应正文一起包含在输出中。运行此命令时，将看到服务器返回的响应头在终端窗口中打印出来。
+
+`curl -i google.com` 和 `ping google.com`的区别：
+`curl -i` 命令可以使用代理服务器进行 HTTP 请求，只需要在命令中指定代理服务器的地址和端口号即可。而`ping` 命令默认不使用代理服务器。

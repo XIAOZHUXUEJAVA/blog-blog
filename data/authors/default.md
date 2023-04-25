@@ -1,18 +1,18 @@
 ---
-name: Xiao Zhu
+name: Zhu
 avatar: /static/images/avatar.png
 occupation: A Student
-company: no company and just like coding
+company: just like coding
 email: xiaozhuzhulzq@163.com
 twitter: https://twitter.com/xiaozhulzq
 linkedin: https://www.linkedin.com
 github: https://github.com/XIAOZHUXUEJAVA
 ---
 
-_Favorite music_
+_Favorite Songs_
 
-《晴天》
+晴天 / Yesterday / 봄 사랑 벚꽃 말고
 
-_Favorite Game_
+_Favorite Games_
 
-《Sekiro》
+Sekiro / LOL / Ori series / Dark Souls series
