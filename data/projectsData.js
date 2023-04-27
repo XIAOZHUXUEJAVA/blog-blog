@@ -1,5 +1,17 @@
 const projectsData = [
   {
+    title: '请我喝茶?',
+    description: `聊天机器人贡献方式`,
+    imgSrc: '/static/images/pay.png',
+    href: 'https://chat-xiaozhu.netlify.app/zh',
+  },
+  {
+    title: '联系我?',
+    description: `加我为好友吗?`,
+    imgSrc: '/static/images/contact.png',
+    href: 'https://chat-xiaozhu.netlify.app/zh',
+  },
+  {
     title: 'CSDN在哪里?',
     description: `来中文社区看我的博客！`,
     imgSrc: '/static/images/csdn.png',
