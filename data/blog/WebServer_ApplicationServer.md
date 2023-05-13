@@ -3,7 +3,7 @@ title: 每日小知识点(一) - 服务器
 date: '2023-03-20'
 tags: ['network', 'daily']
 draft: false
-summary: Daily Littel Knowledge Points
+summary: Daily Little Knowledge Points
 ---
 
 # 每日小知识点(一) - 服务器

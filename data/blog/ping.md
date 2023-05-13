@@ -3,7 +3,7 @@ title: 每日小知识点(二) - 为什么Ping不通外网?
 date: '2023-03-21'
 tags: ['network', 'daily']
 draft: false
-summary: Daily Littel Knowledge Points
+summary: Daily Little Knowledge Points
 ---
 
 # 每日小知识点(二) - 为什么 Ping 不通外网?

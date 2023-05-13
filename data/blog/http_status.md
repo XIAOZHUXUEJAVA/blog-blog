@@ -3,7 +3,7 @@ title: 每日小知识点(三) - HTTP 状态码
 date: '2023-03-23'
 tags: ['network', 'daily']
 draft: false
-summary: Daily Littel Knowledge Points
+summary: Daily Little Knowledge Points
 ---
 
 # 每日小知识点(三) - HTTP 状态码
