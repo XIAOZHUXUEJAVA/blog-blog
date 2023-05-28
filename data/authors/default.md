@@ -27,10 +27,9 @@ github: https://github.com/XIAOZHUXUEJAVA
 ## _The Programming Font_
 
 - **JetBrains Mono**
-- **Comic Mono Code**
 
 ## _The Programming Environment_
 
 - **Windows + Docker for Windows + ArchLinux + Vscode+ Vim**
 - **JetBrains(IDEA) + Vim**
-- **WSL2 + Vsocde/IDEA + Vim**
+- **WSL2 + Vscode/IDEA + Vim**
