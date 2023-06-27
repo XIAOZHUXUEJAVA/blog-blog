@@ -87,15 +87,15 @@ export default function Home({ posts }) {
             className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
             aria-label="all posts"
           >
-            All Posts &rarr;
+            所有推送 &rarr;
           </Link>
         </div>
       )}
-      {siteMetadata.newsletter.provider !== '' && (
+      {/* {siteMetadata.newsletter.provider !== '' && (
         <div className="flex items-center justify-center pt-4">
           <NewsletterForm />
         </div>
-      )}
+      )} */}
     </>
   )
 }

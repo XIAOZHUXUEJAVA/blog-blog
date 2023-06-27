@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Celeste Blog Use Nextjs',
+  title: 'Little Pig Blog Use Nextjs',
   author: 'Learn from Tails Azimuth',
-  headerTitle: 'Celeste Blog',
+  headerTitle: 'Litttle Pig Blog',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
