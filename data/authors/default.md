@@ -11,7 +11,9 @@ github: https://github.com/XIAOZHUXUEJAVA
 
 ## _Favorite Songs_
 
-- **晴天 / Yesterday / 봄 사랑 벚꽃 말고**
+- **晴天 / Yesterday**
+
+《晴天》总能让我陷入回忆。。。。。
 
 ## _Favorite Games_
 
@@ -27,6 +29,7 @@ github: https://github.com/XIAOZHUXUEJAVA
 ## _The Programming Font_
 
 - **JetBrains Mono**
+- **Fira Code**
 
 ## _The Programming Environment_
 
