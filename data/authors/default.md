@@ -13,8 +13,6 @@ github: https://github.com/XIAOZHUXUEJAVA
 
 - **晴天 / Yesterday**
 
-《晴天》总能让我陷入回忆。。。。。
-
 ## _Favorite Games_
 
 - **Sekiro / LOL / Ori series / Dark Souls series**
