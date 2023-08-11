@@ -8,7 +8,7 @@ summary: Quick Sort
 
 # Quick Sort
 
-Quick Sort is a classic sorting algorithm, and the followings are my implementation in Java, Go, and Rust:
+Quick Sort is a classic sorting algorithm, and the followings are my implementation in Java, Go and Rust:
 
 ## Implementation in Java
 
