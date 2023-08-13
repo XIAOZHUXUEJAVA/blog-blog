@@ -15,7 +15,7 @@ export default function FourZeroFour() {
 
         <div className="space-x-2 pt-2 pb-4 md:space-y-4">
           <h1 className="text-4xl font-bold leading-7 tracking-tight text-gray-900 dark:text-gray-100 md:border-r-2 md:px-4 md:text-7xl md:leading-12">
-            公告
+            Announcement
           </h1>
         </div>
         <div className="max-w-md">
