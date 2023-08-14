@@ -1,5 +1,5 @@
 ---
-title: I successfully submitted a GitHub issue to a 10000+ stars projects
+title: I successfully submitted a GitHub issue to a 10000+ stars project
 date: '2023-08-14'
 tags: ['github', 'rust']
 draft: false
