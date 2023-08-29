@@ -9,28 +9,29 @@ linkedin: https://www.linkedin.com
 github: https://github.com/XIAOZHUXUEJAVA
 ---
 
-## _Favorite Songs_
+## _Favorite Song_
 
-- **晴天 / Yesterday**
+- **《Yesterday》**
 
 ## _Favorite Games_
 
 - **Sekiro / LOL / Ori series / Dark Souls series**
 
-## _The Development Language_
+## _Development Language_
 
 - **Frequently Used: Java/Go/Rust**
-- **Know a litte: Python/C++**
+- **Know a litte: JavaScript/TypeScript/C++**
 - **Dislike: Java/JavaScript/Python**
-- **Want to Learn: C/C#**
+- **Want to Learn: C#**
 
-## _The Programming Font_
+## _Programming Fonts_
 
+- **Comic Code**
 - **JetBrains Mono**
 - **Fira Code**
 
-## _The Programming Environment_
+## _Programming Environment_
 
-- **Windows + Docker for Windows + ArchLinux + Vscode+ Vim**
-- **JetBrains(IDEA) + Vim**
-- **WSL2 + Vscode/IDEA + Vim**
+- **Windows + Docker for Windows + ArchLinux + Vscode+ Vim Plugin**
+- **JetBrains(IDEA) + Vim Plugin**
+- **WSL2 + Vscode/IDEA + Vim Plugin**
