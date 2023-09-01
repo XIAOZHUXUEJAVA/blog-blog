@@ -77,7 +77,7 @@
 // }
 
 import React, { useEffect, useRef, useState } from 'react'
-import { renderCanvas } from './renderCanvas'
+import { renderCanvas } from '../lib/utils/renderCanvas'
 
 export default function Hero({ welcome }) {
   const ref = useRef(null)
