@@ -1,11 +1,11 @@
 const siteMetadata = {
-  title: 'Little Pig Blog Use Nextjs',
+  title: 'Piggy Blog Use Nextjs',
   author: 'Learn from Tails Azimuth',
-  headerTitle: 'Litttle Pig Blog',
+  headerTitle: 'Piggy Blog',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://xiaozhulzqazureblog.netlify.app/',
+  siteUrl: 'https://xxxdgblog.netlify.app/blog',
   siteRepo: 'https://github.com/XIAOZHUXUEJAVA/blog-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
@@ -18,6 +18,8 @@ const siteMetadata = {
   linkedin: 'https://www.linkedin.com',
   qq: 'https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202211172305474.png',
   locale: 'en-US',
+  welcome: 'Fix your eyes forward on what you can do, not back on what you cannot change.',
+  // welcome: '你好，我好，大家好',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
