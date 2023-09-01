@@ -25,17 +25,17 @@ Bubble sort is a classic sorting algorithm, and the followings are my implementa
      * @throws IllegalArgumentException
      */
     public static void swapElementInArray(int[] array, int firstIndex, int secondIndex) {
-        if (array == null) {
-            throw new IllegalArgumentException("the input array can not ne null");
+        if (array == null || array.length == 0) {
+            throw new IllegalArgumentException("The input array cannot be null or empty");
         }
-
         if (firstIndex < 0 || firstIndex >= array.length || secondIndex < 0 || secondIndex >= array.length) {
-            throw new IllegalArgumentException("Invalid index values");
+            throw new ArrayIndexOutOfBoundsException("Invalid index values");
         }
-
-        int tempElement = array[firstIndex];
-        array[firstIndex] = array[secondIndex];
-        array[secondIndex] = tempElement;
+        if (firstIndex != secondIndex) {
+            int tempElement = array[firstIndex];
+            array[firstIndex] = array[secondIndex];
+            array[secondIndex] = tempElement;
+        }
     }
 
 
@@ -52,7 +52,7 @@ Bubble sort is a classic sorting algorithm, and the followings are my implementa
         if (array == null) {
             throw new IllegalArgumentException("the input array can not be null");
         }
-        // the array contain only one element, just return
+        // the array contain only one element or empty, just return
         if (array.length < 2) {
             return;
         }

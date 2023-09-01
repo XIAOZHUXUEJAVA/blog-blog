@@ -35,7 +35,7 @@ export default function FourZeroFour() {
             <br />
             - 个别图片可能在在非科学上网的情况下无法访问，正在优化中。
             <br />
-            <br />- 感谢您的理解与支持。
+            <br />- 感谢您的访问、理解与支持。
           </p>
 
           {/* <p className="mb-8">

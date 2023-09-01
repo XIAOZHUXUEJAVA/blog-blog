@@ -64,7 +64,7 @@ public class HeapSort {
     public static void swapElementInArray(int[] array, int firstIndex, int secondIndex) {
         if (array == null || array.length == 0) {
             throw new IllegalArgumentException("The input array cannot be null or empty");
-        }
+
         if (firstIndex < 0 || firstIndex >= array.length || secondIndex < 0 || secondIndex > array.length) {
             throw new IllegalArgumentException("Invalid index values");
         }
