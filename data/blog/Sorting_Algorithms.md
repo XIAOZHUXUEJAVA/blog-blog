@@ -565,3 +565,89 @@ public class CountSort {
 ### 稳定性
 
 稳定排序
+
+## 桶排序
+
+### 介绍
+
+桶排序（Bucket Sort）是一种分布式排序算法，它将元素分散到多个桶中，然后对每个桶中的元素进行排序，最后将桶中的元素按顺序合并起来，形成有序的输出。桶排序通常用于处理具有均匀分布的输入数据。
+
+以下是桶排序的简要介绍：
+
+初始化桶： 首先，确定要使用的桶的数量，通常是根据输入数据的范围和分布来确定的。每个桶可以是一个容器，可以是数组、链表或其他数据结构。
+
+分配元素到桶中： 接下来，遍历输入数组，将每个元素根据某种规则分配到相应的桶中。分配规则通常是将元素映射到特定的桶索引。这个映射可以使用一种映射函数来完成。
+
+对每个桶进行排序： 一旦元素分配到桶中，就对每个桶中的元素进行排序。通常，桶内排序可以使用快速排序、归并排序等常见的排序算法，也可以选择其他排序方法，具体取决于应用的需要。
+
+合并桶中的元素： 排序后，将各个桶中的元素按照桶的顺序合并起来，形成有序的输出。合并可以通过简单地按顺序访问每个桶中的元素并放入输出数组来实现。
+
+输出结果： 最终得到一个有序的输出数组，其中包含了输入数据的有序排列。
+
+### 实现
+
+```java
+import java.util.*;
+
+
+public class BucketSort {
+
+
+  public static void bucketSort(float[] nums) {
+    if (nums == null) {
+      throw new IllegalArgumentException("The input nums cannot be null");
+    }
+    if (nums.length <= 1) {
+      return;
+    }
+
+
+    int halfLength = nums.length / 2;
+    List<List<Float>> buckets = new ArrayList<>();
+    for (int i = 0; i < halfLength; i++) {
+      buckets.add(new ArrayList<>());
+    }
+
+
+    for (float num : nums) {
+      int bucketIndex = (int) (num * halfLength);
+      buckets.get(bucketIndex).add(num);
+    }
+
+
+    for (List<Float> bucket : buckets) {
+      Collections.sort(bucket);
+    }
+
+    int sortedIndex = 0;
+    for (List<Float> bucket : buckets) {
+      for (float num : bucket) {
+        nums[sortedIndex++] = num;
+      }
+    }
+  }
+
+  public static void main(String[] args) {
+    float[] unorderedArray = {0.2f, 0.1f, 0.1f, 0.3f, 0.5f, 0.7f, 0.6f};
+    System.out.println(Arrays.toString(unorderedArray));
+    bucketSort(unorderedArray);
+    System.out.println(Arrays.toString(unorderedArray));
+  }
+
+}
+```
+
+### 算法复杂度
+
+- 时间复杂度: O(n), 当桶的数量比较多的时候。
+- 空间复杂度: O(n + k), 需要借助 k 个桶和 List 中的 n 个元素的额外空间
+
+### 稳定性
+
+桶排序的稳定性取决于每个桶里面的排序算法的稳定性
+
+```java
+for (List<Float> bucket : buckets) {
+    Collections.sort(bucket);
+}
+```
