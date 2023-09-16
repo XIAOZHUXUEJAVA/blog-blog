@@ -6,8 +6,6 @@ draft: false
 summary: Docker Ubuntu Container SetUp
 ---
 
-# Ubuntu SetUp
-
 ## 1. docker
 
 ### 1.1 拉取一个 Ubuntu 镜像

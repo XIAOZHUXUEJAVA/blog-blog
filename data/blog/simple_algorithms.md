@@ -6,8 +6,6 @@ draft: false
 summary: Simple Algorithms
 ---
 
-# 一些必知必会的算法(1)
-
 ## 斐波那契数列
 
 ```go

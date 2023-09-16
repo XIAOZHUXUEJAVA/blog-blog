@@ -6,8 +6,6 @@ draft: false
 summary: Selection Sort
 ---
 
-# Selection Sort
-
 Selection sort is a classic sorting algorithm, the followings are my implementation in `Java`, `Go` and `Rust`:
 
 ## Implementation in Java

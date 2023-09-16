@@ -6,8 +6,6 @@ draft: false
 summary: Insertion Sort
 ---
 
-# 插入排序
-
 ## java
 
 ```java

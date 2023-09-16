@@ -6,8 +6,6 @@ draft: false
 summary: Learn Rust (Just For Fun)
 ---
 
-# Rust-Modules
-
 ## modules1.rs
 
 The function `make_sausage` is declared as public, so it can be called outside the module `sausage`. But `get_secret_recipe` is not declared as public, so we can not access it outside the module.

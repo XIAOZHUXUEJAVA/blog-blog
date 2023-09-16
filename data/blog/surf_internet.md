@@ -6,8 +6,6 @@ draft: false
 summary: Surf Internet In Linux
 ---
 
-# 没有图形界面的 linux 下如何科学上网
-
 参考 GitHub 开源项目：
 
 https://github.com/mzz2017/gg/blob/main/README_zh.md

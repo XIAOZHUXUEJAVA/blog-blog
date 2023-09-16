@@ -6,8 +6,6 @@ draft: false
 summary: Search in Rotated Sorted Array
 ---
 
-# 搜索旋转数组
-
 ## java
 
 ```java

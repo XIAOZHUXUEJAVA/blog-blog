@@ -6,8 +6,6 @@ draft: false
 summary: GitHub issue
 ---
 
-# I successfully submitted a GitHub issue to a 10000+ stars project
-
 The issue are as the the following:
 
 https://github.com/krahets/hello-algo/issues/479

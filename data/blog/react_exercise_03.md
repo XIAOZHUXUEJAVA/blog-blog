@@ -6,8 +6,6 @@ draft: false
 summary: React Daily Exercise
 ---
 
-# React-Exercise-day-02
-
 计算 BMI 的简单 demo
 
 ![image-20230312172636362](C:\Users\xiaoz\AppData\Roaming\Typora\typora-user-images\image-20230312172636362.png)

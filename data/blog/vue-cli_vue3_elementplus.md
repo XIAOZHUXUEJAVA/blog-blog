@@ -6,17 +6,13 @@ draft: false
 summary: use element-plus ui
 ---
 
-# 基于vue3+vue-cli使用element-plus ui库
-
 1. 安装
 
 ```shell
 npm install element-plus --save
 ```
 
-
-
-2. 1 main.js完整引入，这种情况是我们不在乎webpack打包之后的大小
+2. 1 main.js 完整引入，这种情况是我们不在乎 webpack 打包之后的大小
 
 ```js
 import ElementPlus from 'element-plus'
@@ -25,17 +21,13 @@ import 'element-plus/dist/index.css'
 app.use(ElementPlus)
 ```
 
-
-
 2. 2.1 自动导入，官方比较推荐的方式
 
 ```shell
  npm install -D unplugin-vue-components unplugin-auto-import
 ```
 
-
-
-  2.2.2  vue.config.js中配置
+2.2.2 vue.config.js 中配置
 
 ```js
 const AutoImport = require('unplugin-auto-import/webpack')
@@ -46,20 +38,17 @@ module.exports = defineConfig({
   configureWebpack: {
     plugins: [
       AutoImport({
-        resolvers: [ElementPlusResolver()]
+        resolvers: [ElementPlusResolver()],
       }),
       Components({
-        resolvers: [ElementPlusResolver()]
-      })
-    ]
-  }
-});
-
+        resolvers: [ElementPlusResolver()],
+      }),
+    ],
+  },
+})
 ```
 
-
-
-这样我们就可以在template中使用element plus ui的组件了
+这样我们就可以在 template 中使用 element plus ui 的组件了
 
 ![image-20221209151752992](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212091517029.png)
 

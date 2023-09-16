@@ -6,8 +6,6 @@ draft: false
 summary: record a bug in wsl2
 ---
 
-# WSL2，显示 [已退出进程，代码为 4294967295] 的解决方案
-
 这次我按照之前的两个步骤都不起作用。再次遇到这些问题时，可以使用首先使用下面这两个解决方案，再尝试本次的解决方案。
 
 - [记录一个 wsl2 的 BUG (xxxdgblog.netlify.app)](https://xxxdgblog.netlify.app/blog/record_a_bug_wsl2)

@@ -6,9 +6,6 @@ draft: false
 summary: Insert Element Into BST
 ---
 
-
-# Insert Element Into BST
-
 ## java
 
 ```java
@@ -51,8 +48,6 @@ public class InsertInBST {
 
 ```
 
-
-
 ## go
 
 ```go
@@ -72,8 +67,6 @@ func insertIntoBST(root *TreeNode, val int) *TreeNode {
 }
 
 ```
-
-
 
 ## c++
 
@@ -116,8 +109,6 @@ int main() {
 }
 ```
 
-
-
 ## python
 
 ```python
@@ -148,4 +139,3 @@ if __name__ == "__main__":
     display = TreePrint()
     display.displayFromPreIn(newTree)
 ```
-

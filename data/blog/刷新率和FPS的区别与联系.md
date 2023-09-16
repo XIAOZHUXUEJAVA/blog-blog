@@ -6,8 +6,6 @@ draft: false
 summary: Daily Little Knowledge Points
 ---
 
-# FPS 与刷新率：有什么区别与联系？
-
 问题来源：近期入手了一款 165HZ，1920 \* 1080 分辨率的显示器，玩了一段时间的《LOL》和《CSGO》，发现 FPS 比不外接显示器的时候低很多，于是有了以下的探索。
 
 - HZ（赫兹）：在显示器中，HZ 是指屏幕的刷新率(Refresh Rate)，即每秒刷新的次数，常用的刷新率有 60HZ、75HZ、144HZ 等。刷新率越高，画面越流畅。

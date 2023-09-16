@@ -6,8 +6,6 @@ draft: false
 summary: Remove Element From Array
 ---
 
-# 删除数组中的指定元素
-
 ## java
 
 ```java

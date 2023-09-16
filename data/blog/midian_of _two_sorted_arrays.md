@@ -6,8 +6,6 @@ draft: false
 summary: Find Midian Of Two Sorted Arrays
 ---
 
-# 寻找两个正序数组的中位数
-
 ## java
 
 ```java

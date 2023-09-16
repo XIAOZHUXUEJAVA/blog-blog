@@ -6,8 +6,6 @@ draft: false
 summary: Daily Little Knowledge Points
 ---
 
-# 什么是 Context 上下文？
-
 维基百科中提到：
 
 在电脑科学中，**任务（task）的上下文（英语：context）是一个任务所必不可少的一组数据（该任务可以是[进程](https://zh.wikipedia.org/wiki/行程)、[线程](https://zh.wikipedia.org/wiki/线程)）**。这些数据允许任务[中断](https://zh.wikipedia.org/wiki/中斷)，在这之后仍可在同一个地方继续执行。上下文的这一概念在中断的任务的场景下具有重大意义，其中，任务在被中断之后，处理器保存上下文并提供[中断处理](https://zh.wikipedia.org/w/index.php?title=中断处理&action=edit&redlink=1)（interrupt service routine）。因此，上下文越小，延迟越小。

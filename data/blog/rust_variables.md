@@ -6,8 +6,6 @@ draft: false
 summary: Learn Rust (Just For Fun)
 ---
 
-# Rustlings-Variables
-
 ## variables1.rs
 
 Rust uses `let` keyword to create a new variable.

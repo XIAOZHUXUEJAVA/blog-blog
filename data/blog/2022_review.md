@@ -6,8 +6,6 @@ draft: false
 summary: Annual Review
 ---
 
-# 2022 年度总结
-
 ## 1. 学习
 
 ### 1.1 学到了什么

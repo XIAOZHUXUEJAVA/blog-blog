@@ -6,8 +6,6 @@ draft: false
 summary: Combine
 ---
 
-# 组合
-
 ## java
 
 ```java

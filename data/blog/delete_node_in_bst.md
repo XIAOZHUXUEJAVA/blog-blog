@@ -6,11 +6,6 @@ draft: false
 summary: Delete Node In BST
 ---
 
-
-# 删除二叉搜索树中的结点
-
-  
-
 ## java
 
 ```java
@@ -81,11 +76,7 @@ public class DeleteNodeInBST {
 
 ```
 
-
-
 ## go
-
-
 
 ```go
 package tree
@@ -126,8 +117,6 @@ func getMinNode(root *TreeNode) *TreeNode {
 
 ```
 
-
-
 ## c++
 
 ```c
@@ -150,7 +139,7 @@ public:
             }
             if (root->right == nullptr) {
                 return root->left;
-            } 
+            }
             TreeNode* minNode = getMinNode(root->right);
             root->right = deleteNode(root->right, minNode->val);
             minNode->left = root->left;
@@ -222,4 +211,3 @@ class DeleteNodeInBST:
             node = node.left
         return node
 ```
-

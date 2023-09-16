@@ -6,8 +6,6 @@ draft: false
 summary: Learning Vim Is A Long Journey
 ---
 
-# Learn Vim
-
 ## 移动命令
 
 这些命令主要是在 normal 模式下使用的

@@ -6,8 +6,6 @@ draft: false
 summary: 实习学习
 ---
 
-# CentOS 7 安装 WEBLOGIC
-
 # 1.JDK 安装
 
 ```bash

@@ -6,8 +6,6 @@ draft: false
 summary: Reverse Integer
 ---
 
-# 反转整数
-
 ## go
 
 ```go

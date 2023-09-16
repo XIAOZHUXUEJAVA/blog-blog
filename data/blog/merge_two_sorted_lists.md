@@ -3,13 +3,8 @@ title: 合并两个有序的单链表
 date: '2022-11-13'
 tags: ['java', 'go', 'c++', 'python', 'datastructrue']
 draft: false
-summary: Merge Two Sorted Lists to a New Lists 
+summary: Merge Two Sorted Lists to a New Lists
 ---
-
-
-# 合并两个有序的单链表
-
-
 
 ## java
 
@@ -87,8 +82,6 @@ public class MergeTwoSortedLists {
 
 ```
 
-
-
 ## go
 
 ```go
@@ -152,8 +145,6 @@ func TestMergeTwoSortedLists(t *testing.T) {
 
 ```
 
-
-
 ## python3
 
 ```python
@@ -212,8 +203,6 @@ if __name__ == "__main__":
     merge = test.mergeTwoLists(node1, node6)
     merge.display()
 ```
-
-
 
 ## c++
 
@@ -290,4 +279,3 @@ int main() {
 
 }
 ```
-

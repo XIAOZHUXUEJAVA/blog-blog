@@ -6,8 +6,6 @@ draft: false
 summary: React Daily Exercise
 ---
 
-# React-Exercise-day-01
-
 ```tsx
 import { useState } from 'react'
 import './styles.css'

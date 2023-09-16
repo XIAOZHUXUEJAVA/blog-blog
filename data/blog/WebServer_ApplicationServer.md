@@ -6,8 +6,6 @@ draft: false
 summary: Daily Little Knowledge Points
 ---
 
-# 每日小知识点(一) - 服务器
-
 ## Web 服务器和应用服务器的区别
 
 Web 服务器和应用服务器是两种不同类型的服务器，它们在功能和用途上有所不同。

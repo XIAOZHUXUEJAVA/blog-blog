@@ -6,8 +6,6 @@ draft: false
 summary: Learn Rust (Just For Fun)
 ---
 
-# Rust-Enums
-
 ## enum1.rs
 
 In practical applications, enums types are often used to express a group of related options or status, such as **HTTP status code**, **the status of operating system process** and so on. Using enums can make our code clear and understandable, while also improving its readability and maintainability.

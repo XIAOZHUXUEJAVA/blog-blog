@@ -6,8 +6,6 @@ draft: false
 summary: For Job
 ---
 
-# 剑指 Offer-算法篇-Day02
-
 ## 从头到尾打印链表
 
 直接使用递归即可，比较简单

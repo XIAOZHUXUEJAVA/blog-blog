@@ -6,8 +6,6 @@ draft: false
 summary: Min Cost Climbing Stairs
 ---
 
-# 使用最小花费爬楼梯
-
 ## java
 
 ```java

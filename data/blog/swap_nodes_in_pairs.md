@@ -6,8 +6,6 @@ draft: false
 summary: Swap Nodes in Pairs
 ---
 
-# 两两交换链表中的结点
-
 ## java
 
 ```java

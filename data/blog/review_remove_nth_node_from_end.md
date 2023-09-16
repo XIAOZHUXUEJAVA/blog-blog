@@ -6,8 +6,6 @@ draft: false
 summary: Remove Nth Node From End
 ---
 
-# 删除链表中倒数第 N 个元素----复习档
-
 ## java
 
 ```java

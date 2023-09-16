@@ -6,9 +6,6 @@ draft: false
 summary: Symmetric Binary Tree
 ---
 
-
-# 对称二叉树
-
 ## java
 
 ```java
@@ -60,8 +57,6 @@ public class SymmetricTree {
 
 ```
 
-
-
 ## go
 
 ```go
@@ -89,10 +84,6 @@ func checkLAndR(left, right *TreeNode) bool {
 .
 0
 ```
-
-
-
-
 
 ## c++
 
@@ -138,4 +129,3 @@ int main() {
     cout<<test.isSymmetric(root);
 }
 ```
-

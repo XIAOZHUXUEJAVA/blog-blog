@@ -6,8 +6,6 @@ draft: false
 summary: Combination Sum
 ---
 
-# 组合总和
-
 ## java
 
 ```java

@@ -6,8 +6,6 @@ draft: false
 summary: Learn Rust (Just For Fun)
 ---
 
-# Rust-Strings
-
 ## string1.rs
 
 The purpose of the function is to return a string. But in Rust, "blue" is a string literal value and cannot be used as a return value. In Rust, strings are represented using `String` type, so it is necessary to create a new instance of `String` containing the string literal value. This can be achieved using the `String::from` and `"blue.to_string()"`.

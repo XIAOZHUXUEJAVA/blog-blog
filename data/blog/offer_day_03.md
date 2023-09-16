@@ -6,8 +6,6 @@ draft: false
 summary: For Job
 ---
 
-# 剑指 offer-Day03
-
 ## 替换空格
 
 ```java

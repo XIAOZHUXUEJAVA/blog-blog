@@ -6,8 +6,6 @@ draft: false
 summary: Letter Combinations
 ---
 
-# 电话号码的字母组合
-
 ## c++
 
 ```c

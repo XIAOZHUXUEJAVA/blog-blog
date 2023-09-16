@@ -6,8 +6,6 @@ draft: false
 summary: Mabaits Simple Demo
 ---
 
-# Mybatis 快速启动-IDEA 版
-
 ## 初始化
 
 ### 创建 maven 项目

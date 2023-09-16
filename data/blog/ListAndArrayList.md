@@ -6,8 +6,6 @@ draft: false
 summary: List学习过程中引出的思考
 ---
 
-### `List<Integer> list = new ArrayList<>();` 和 `ArrayList<Integer> list = new ArrayList<>();`这两者有什么区别
-
 **类型不同**
 
 这一点是最明显的这两个不属于同一个类

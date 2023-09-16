@@ -6,8 +6,6 @@ draft: false
 summary: React Daily Exercise
 ---
 
-# React-Exercise-day-02
-
 App.tsx
 
 ```tsx

@@ -6,8 +6,6 @@ draft: false
 summary: common sorting algorithms and implementation in java
 ---
 
-# 排序算法
-
 1. 简单介绍一下排序算法
 
 2. 具体写一下 Java 实现排序

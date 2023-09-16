@@ -6,8 +6,6 @@ draft: false
 summary: The solutions to `Climbing Stairs` with implementation in Java, Go and Rust
 ---
 
-# Climb Stairs
-
 ## Description
 
 You are climbing a staircase. It takes `n` steps to reach the top.

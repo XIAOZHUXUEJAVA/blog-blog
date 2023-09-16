@@ -6,8 +6,6 @@ draft: false
 summary: Useful Websites and Software
 ---
 
-# Tools
-
 ## software
 
 ### 1. Everything

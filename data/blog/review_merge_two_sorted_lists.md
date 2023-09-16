@@ -6,8 +6,6 @@ draft: false
 summary: Review Merge Two Sorted Lists
 ---
 
-# 合并两个排序链表-----复习档
-
 ## go
 
 ```go

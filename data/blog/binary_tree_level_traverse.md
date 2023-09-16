@@ -5,7 +5,6 @@ tags: ['java', 'go', 'c++', 'python', 'datastructrue']
 draft: false
 summary: Binary Tree Level traverse
 ---
-# Binary_Tree_Level_traverse
 
 ## java
 
@@ -48,8 +47,6 @@ public List<List<Integer>> levelOrder(TreeNode root) {
     }
 ```
 
-
-
 ## go
 
 ```go
@@ -85,8 +82,6 @@ func levelOrder(root *TreeNode) [][]int {
 	return res
 }
 ```
-
-
 
 ## c++
 
@@ -147,8 +142,6 @@ int main() {
 
 ```
 
-
-
 ## python
 
 ```python
@@ -193,4 +186,3 @@ if __name__ == "__main__":
     levelRes = test.levelOrder(tree)
     print(levelRes)
 ```
-

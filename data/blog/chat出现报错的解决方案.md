@@ -6,8 +6,6 @@ draft: false
 summary: Solution to ChatBot Bug
 ---
 
-# ChatBot 出现报错的解决方案
-
 ## 1. 刷新网页
 
 ## 2. 换一个浏览器

@@ -6,8 +6,6 @@ draft: false
 summary: Learn Rust (Just For Fun)
 ---
 
-# Move_Semantics
-
 ## move_semantics1.rs
 
 The `fill_vec` function return a mutable type of `vec`, so we should define a mutable type of `vec` to receive it.

@@ -6,7 +6,7 @@ draft: false
 summary: Docker Ubuntu Container SetUp
 ---
 
-# Ubuntu20.04 Install MySQL8 ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+## Ubuntu20.04 Install MySQL8 ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
 
 在 Ubuntu 安装 MySQL8 的时候出现标题上的问题，最终得以解决，以下是从安装到修复的过程
 

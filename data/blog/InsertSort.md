@@ -6,8 +6,6 @@ draft: false
 summary: Insertion Sort
 ---
 
-# Insertion Sort
-
 Insertion sort is a classic sorting algorithm, the followings are my implementation in Java, Go, Rust.
 
 ## Implementation in Java

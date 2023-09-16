@@ -6,8 +6,6 @@ draft: false
 summary: Kth Smallest In BST
 ---
 
-# Kth Smallest In BST
-
 ## java
 
 ```java
@@ -54,10 +52,6 @@ public class KthSmallestInBST {
 
 ```
 
-
-
-
-
 ## go
 
 ```go
@@ -84,8 +78,6 @@ func kthSmallest(root *TreeNode, k int) int {
 }
 ```
 
-
-
 ## c++
 
 ```c
@@ -108,8 +100,6 @@ func kthSmallest(root *TreeNode, k int) int {
         traverse(root->right, k);
     }
 ```
-
-
 
 ## python
 
@@ -134,4 +124,3 @@ class KthSmallestInBST:
             return
         self.traverse(root.right, k)
 ```
-

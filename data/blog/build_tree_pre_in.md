@@ -6,9 +6,6 @@ draft: false
 summary: Build Binary Tree From Preorder and Inorder
 ---
 
-
-# 从前序与中序序列构建二叉树
-
 ## java
 
 ```java
@@ -52,7 +49,7 @@ public class BuildBinaryTree {
     public TreeNode traversePreIn(int[] preorder, int preStart, int preEnd, int[] inorder, int inStart, int inEnd) {
 
         // base case
-       
+
         if (preStart > preEnd) {
             return null;
         }
@@ -120,8 +117,6 @@ public class BuildBinaryTree {
 }
 
 ```
-
-
 
 ## c++
 
@@ -194,8 +189,6 @@ public:
 
 ```
 
-
-
 ## python
 
 ```python
@@ -222,8 +215,6 @@ class BuildTree:
         return root
 
 ```
-
-
 
 ## Go
 
@@ -279,4 +270,3 @@ func buildTree(preorder []int, inorder []int) *TreeNode {
 }
 
 ```
-

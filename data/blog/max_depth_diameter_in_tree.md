@@ -6,14 +6,6 @@ draft: false
 summary: Max Depth And Diameter In Binary Tree
 ---
 
-
-
-
-
-# MaxDepthInTree
-
-
-
 ## java
 
 ```java
@@ -74,10 +66,6 @@ public class MaximumDepthOfBinaryTree {
 
 ```
 
-
-
-
-
 ## python
 
 ```python
@@ -133,10 +121,6 @@ if __name__ == "__main__":
 
 ```
 
-
-
-
-
 ## go
 
 ```go
@@ -189,10 +173,6 @@ func Max(num1, num2 int) int {
 }
 
 ```
-
-
-
-
 
 ## c++
 
@@ -256,8 +236,6 @@ int main() {
 }
 ```
 
-
-
 # MaxDiameterInTree
 
 ## java
@@ -303,8 +281,6 @@ public class MaxDiameterOfBinaryTree {
 
 ```
 
-
-
 ## python
 
 ```python
@@ -344,8 +320,6 @@ if __name__ == "__main__":
     print(maxDiameter)
 ```
 
-
-
 ## go
 
 ```go
@@ -380,8 +354,6 @@ func MaxToDiameter(num1, num2 int) int {
 }
 
 ```
-
-
 
 ## c++
 
@@ -432,4 +404,3 @@ int main() {
     return 0;
 }
 ```
-

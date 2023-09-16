@@ -6,8 +6,6 @@ draft: false
 summary: Add Two Numbers
 ---
 
-# 两数相加
-
 ## java
 
 ```java

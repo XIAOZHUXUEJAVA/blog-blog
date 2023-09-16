@@ -6,8 +6,6 @@ draft: false
 summary: Reverse Linked Lists II
 ---
 
-# 反转链表 II
-
 ## java
 
 ```java

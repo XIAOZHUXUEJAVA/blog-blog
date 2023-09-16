@@ -6,9 +6,6 @@ draft: false
 summary: To Find The Middle Node From Singly Linked List
 ---
 
-
-# 链表的中间结点实现
-
 ## java
 
 ```java
@@ -95,8 +92,6 @@ func TestFindMiddleNode(t *testing.T) {
 }
 ```
 
-
-
 ## c++
 
 ```c
@@ -150,8 +145,6 @@ int main() {
 }
 ```
 
-
-
 ## python
 
 ```py
@@ -191,4 +184,3 @@ if __name__ == "__main__":
     print(middle.val)
 
 ```
-

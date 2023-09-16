@@ -6,8 +6,6 @@ draft: false
 summary: Bubble Sort
 ---
 
-# 冒泡排序
-
 ## java
 
 ```java

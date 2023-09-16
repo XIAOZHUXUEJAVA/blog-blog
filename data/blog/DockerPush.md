@@ -6,8 +6,6 @@ draft: false
 summary: To save and push docker container
 ---
 
-# docker 容器和镜像的备份
-
 ## 本地备份
 
 1. 运行一个容器

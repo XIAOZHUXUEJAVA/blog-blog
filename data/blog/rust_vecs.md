@@ -6,8 +6,6 @@ draft: false
 summary: Learn Rust (Just For Fun)
 ---
 
-# Rustlings-Vecs
-
 The `vec!` macro is a convenient shortcut for creating variables of type `Vec` and initialize their elements.
 
 ## vecs1.rs

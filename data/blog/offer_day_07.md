@@ -6,8 +6,6 @@ draft: false
 summary: For Job
 ---
 
-# 剑指 Offer-算法篇-Day07
-
 ## 二叉树的子结构
 
 思路分析：一个二叉树(B)为另一个二叉树(A)的子结构，无非有两种情况：

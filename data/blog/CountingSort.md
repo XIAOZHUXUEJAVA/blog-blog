@@ -6,8 +6,6 @@ draft: false
 summary: Counting Sort
 ---
 
-# Counting Sort
-
 Counting sort is a classic soring algorithm. The followings are my implementation in Java, Go and Rust.
 
 ## Java

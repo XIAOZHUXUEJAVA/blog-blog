@@ -6,8 +6,6 @@ draft: false
 summary: Next Permutation
 ---
 
-# 下一个排列
-
 ## Go
 
 ```go

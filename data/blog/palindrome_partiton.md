@@ -6,8 +6,6 @@ draft: false
 summary: Palindrome Partition
 ---
 
-# 切割回文串
-
 ## java
 
 ```java

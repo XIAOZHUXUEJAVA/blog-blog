@@ -6,8 +6,6 @@ draft: false
 summary: Search In BST
 ---
 
-# Search In BST
-
 ## java
 
 ```java
@@ -47,8 +45,6 @@ public class SearchInBST {
 
 ```
 
-
-
 ## go
 
 ```go
@@ -69,11 +65,9 @@ func searchBST(root *TreeNode, target int) *TreeNode {
 
 ```
 
-
-
 ## c++
 
-```	c
+```c
 //
 // Created by xiaoz on 2022/12/1.
 //
@@ -111,8 +105,6 @@ int main() {
 }
 ```
 
-
-
 ## python
 
 ```python
@@ -143,4 +135,3 @@ if __name__ == "__main__":
     print(searchNode.val)
 
 ```
-

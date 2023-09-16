@@ -6,11 +6,7 @@ draft: false
 summary: Validate BST
 ---
 
-# Validate BST
-
 ## java
-
-
 
 ```java
 package com.zhu.algorithms.leetcode.tree;
@@ -62,9 +58,9 @@ public class ValidateBST {
         }
         return true;
     }
-    
+
     /*=============================================================================================*/
-    
+
     /*
      * @Title: isValidBST
      * @Description: 使用递归的方法
@@ -95,8 +91,6 @@ public class ValidateBST {
 }
 
 ```
-
-
 
 ## go
 
@@ -202,8 +196,6 @@ int main() {
 }
 ```
 
-
-
 ## python
 
 ```python
@@ -245,4 +237,3 @@ class ValidateBST:
             return False
         return self.traverse(root.left, min, root) and self.traverse(root.right, root, max)
 ```
-

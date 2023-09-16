@@ -6,8 +6,6 @@ draft: false
 summary: Learn TypeScript And Vue3
 ---
 
-# TypeScript + Vue3
-
 ## 1. Why Use TypeScript
 
 - Type errots are caught at compile time (类型错误会在编译时被捕获)

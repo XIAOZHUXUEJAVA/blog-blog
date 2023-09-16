@@ -6,8 +6,6 @@ draft: false
 summary: Daily Little Knowledge Points
 ---
 
-# 每日小知识点(三) - HTTP 状态码
-
 HTTP 状态码是用来表示 HTTP 请求的响应状态的数字代码。
 
 ## 2xx

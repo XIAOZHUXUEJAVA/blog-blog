@@ -6,8 +6,6 @@ draft: false
 summary: Get Intersection Node
 ---
 
-# 相交链表
-
 ## java
 
 ```java

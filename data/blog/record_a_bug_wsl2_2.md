@@ -6,8 +6,6 @@ draft: false
 summary: record a bug in wsl2
 ---
 
-# 打开 wsl2，显示 [已退出进程，代码为 4294967295] 的解决方案
-
 不知从哪天开始，我的电脑打开 wsl2 Ubuntu-20.04 和 window 版的 docker 会出现这种情况
 
 ![image-20221209102257252](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212091022318.png)

@@ -6,8 +6,6 @@ draft: false
 summary: For Job
 ---
 
-# 基础篇 day01
-
 在开始复习之前，我也应该多考虑一些平时经常忽略的问题。
 
 ## 1、Java 语言有哪些特点

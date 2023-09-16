@@ -6,8 +6,6 @@ draft: false
 summary: Quick Sort
 ---
 
-# 快速排序
-
 ## java
 
 ```java

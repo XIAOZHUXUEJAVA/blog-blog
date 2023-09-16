@@ -6,8 +6,6 @@ draft: false
 summary: For Job
 ---
 
-# 剑指 offer-算法-Day04
-
 ## 数组中重复的数字
 
 非常脑残的写法

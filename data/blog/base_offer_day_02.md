@@ -6,8 +6,6 @@ draft: false
 summary: For Job
 ---
 
-# 基础篇 day02
-
 ## 1. fanal 的用法
 
 - 被 final 修饰的方法**不能被继承**

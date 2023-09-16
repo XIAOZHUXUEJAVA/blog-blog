@@ -6,8 +6,6 @@ draft: false
 summary: Host machine access to service running in docker container
 ---
 
-# Navicat Premium Connect Windows Docker Container
-
 1. First of all， we go to the Docker official website and find a database image: https://hub.docker.com/_/postgres .For instance, I use PostgreSQL image.
 
 ![image-20230815151106314](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20230815151106314.png)

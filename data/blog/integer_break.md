@@ -6,8 +6,6 @@ draft: false
 summary: Integer Break
 ---
 
-## 整数拆分
-
 ## java
 
 ```java

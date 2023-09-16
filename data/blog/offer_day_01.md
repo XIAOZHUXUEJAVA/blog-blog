@@ -6,8 +6,6 @@ draft: false
 summary: For Job
 ---
 
-# 剑指 Offer-算法篇-Day01
-
 ## 用栈实现两个队列
 
 思路分析：

@@ -6,8 +6,6 @@ draft: false
 summary: String To Int
 ---
 
-# 字符串转化为整数
-
 ## java
 
 ```java

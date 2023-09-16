@@ -1,12 +1,10 @@
 ---
-title: 无重复字符的最长字串 
+title: 无重复字符的最长字串
 date: '2022-12-12'
 tags: ['java', 'go', 'c++', 'datastructrue']
 draft: false
-summary: Longest Substring Without Repeating Characters 
+summary: Longest Substring Without Repeating Characters
 ---
-
-# 无重复字符的最长字串
 
 ## java
 
@@ -53,7 +51,7 @@ func lengthOfLongestSubstring(s string) int {
 		if res < right - left {
 			res = right - left
 		}
-	} 
+	}
 	return res
 }
 ```
@@ -80,4 +78,3 @@ int lengthOfLongestSubstring(string s) {
         return res;
     }
 ```
-

@@ -6,8 +6,6 @@ draft: false
 summary: The Implementation of SinglyLinkedList in Java
 ---
 
-# SinglyLinkedList
-
 SinglyLinkedList is a classic data structure in computer science. The following is my implementation in Java. It provides various operations such as inserting and deleting node at specified position, checking whether the list has cycle, and searching for node by specified position.
 
 ## Non-Generic

@@ -6,8 +6,6 @@ draft: false
 summary: git branch and roll back your code
 ---
 
-# Learn git branch and roll back your code
-
 ## Create a new repository on github
 
 - new repository

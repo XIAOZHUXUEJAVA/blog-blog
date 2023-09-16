@@ -6,8 +6,6 @@ draft: false
 summary: I can not afford to buy an Apple Computer
 ---
 
-# 笔记本电脑 Windows 10 使用 wifi 显示"无法连接这个网络"的解决方案
-
 ## 方案一
 
 打开 "网络和 Internet" 设置 -> 更改适配器选项 -> 右击 WALN -> 禁用 -> 启用

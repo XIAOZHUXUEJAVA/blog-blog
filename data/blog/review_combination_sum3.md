@@ -6,8 +6,6 @@ draft: false
 summary: Review Combination Sum 3
 ---
 
-# 组合总和 3-----复习档
-
 ## c++
 
 ```c

@@ -6,8 +6,6 @@ draft: false
 summary: Permutations
 ---
 
-# 全排列
-
 ## java
 
 ```java
@@ -71,8 +69,6 @@ public class Permutations {
 
 ```
 
-
-
 ## go
 
 ```go
@@ -111,8 +107,6 @@ func backtrack(nums []int, track []int, used []bool) {
 }
 
 ```
-
-
 
 ## c++
 
@@ -169,4 +163,3 @@ int main() {
     }
 }
 ```
-

@@ -6,8 +6,6 @@ draft: false
 summary:
 ---
 
-# 删除链表中的倒数第 N 个结点
-
 ## java
 
 ```java

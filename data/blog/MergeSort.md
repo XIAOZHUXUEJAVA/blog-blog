@@ -6,8 +6,6 @@ draft: false
 summary: Merge Sort
 ---
 
-# Merge Sort
-
 Merge Sort is a classic sorting algorithm, the followings are my implementation in Java, Go and Rust.
 
 ## Implementation In Java

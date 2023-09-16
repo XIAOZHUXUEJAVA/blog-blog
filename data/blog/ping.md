@@ -6,8 +6,6 @@ draft: false
 summary: Daily Little Knowledge Points
 ---
 
-# 每日小知识点(二) - 为什么 Ping 不通外网?
-
 ## 为什么`ping`不通？
 
 如果使用了代理服务器，但仍无法通过`ping`命令连接到外网(如 Google、Youtube)，可能是以下原因之一：

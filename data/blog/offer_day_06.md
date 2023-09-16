@@ -6,8 +6,6 @@ draft: false
 summary: For Job
 ---
 
-# 剑指 Offer-算法篇-Day06
-
 ## 从上到下打印二叉树 I
 
 ```java

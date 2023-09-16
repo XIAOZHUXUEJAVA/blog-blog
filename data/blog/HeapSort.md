@@ -6,8 +6,6 @@ draft: false
 summary: Heap Sort
 ---
 
-# Heap Sort
-
 Heap sort is a classic sorting algorithm, the followings are my implementation in Java, Go and Rust:
 
 ## Implementation in Java

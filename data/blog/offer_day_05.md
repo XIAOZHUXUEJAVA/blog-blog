@@ -6,8 +6,6 @@ draft: false
 summary: For Job
 ---
 
-# 剑指 Offer-算法篇-Day05
-
 ## 二维数组中的查找
 
 ```java

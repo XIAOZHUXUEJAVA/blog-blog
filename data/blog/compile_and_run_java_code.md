@@ -6,8 +6,6 @@ draft: false
 summary: prepare for interview
 ---
 
-# Complie & Run Java Code
-
 Why I sometimes compile and run java code manually than using IDE ?
 
 To improve the level of my whiteboard programming.

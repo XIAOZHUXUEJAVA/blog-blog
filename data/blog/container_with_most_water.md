@@ -6,8 +6,6 @@ draft: false
 summary: Container With Most Water
 ---
 
-# 盛最多水的容器
-
 ## java
 
 ```java

@@ -6,8 +6,6 @@ draft: false
 summary: Three Sum Closest
 ---
 
-# 最接近的三数之和
-
 ## java
 
 ```java

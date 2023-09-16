@@ -6,9 +6,6 @@ draft: false
 summary: Min Depth of Binary Tree
 ---
 
-
-# 二叉树的最小深度
-
 ## java
 
 ```java
@@ -68,8 +65,6 @@ public class MinimumDepthOfBinaryTree {
 
 ```
 
-
-
 ## go
 
 ```go
@@ -114,8 +109,6 @@ func validBSTHelper(root *TreeNode, min *TreeNode, max *TreeNode) bool {
 }
 
 ```
-
-
 
 ## c++
 
@@ -172,4 +165,3 @@ int main() {
 }
 
 ```
-

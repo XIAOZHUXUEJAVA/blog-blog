@@ -6,8 +6,6 @@ draft: false
 summary: Learn Go
 ---
 
-# Golang-goroutine
-
 ## 并行和并发
 
 并发并不是并行，并行的关键是同时做很多事情，而**并发是同时管理很多事情，这些事情可能只做了一半就去做别的事情了**

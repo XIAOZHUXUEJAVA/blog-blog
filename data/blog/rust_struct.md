@@ -6,8 +6,6 @@ draft: false
 summary: Learn Rust (Just For Fun)
 ---
 
-# Rust-Structs
-
 ## struct1.rs
 
 `ColorClassicStruct` is a named structure that contains three fields: `red`, `green` and `blue`. Each field has its own name, and we can access the values in the structure by using `.` For instance, we can use `green.red` to access `red` field of `green` structure.

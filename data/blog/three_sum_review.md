@@ -6,8 +6,6 @@ draft: false
 summary: Three Sum Review
 ---
 
-# 三数之和复习，这次拿下
-
 思路分析: 整体思路为：算出两数之和, 然后利用两数之和算出三数之和
 
 ## java

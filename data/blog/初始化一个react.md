@@ -6,8 +6,6 @@ draft: false
 summary: The Road to Full Stack
 ---
 
-# 使用 React + TypeScript + Next.js + TailwindCSS 搭建项目(初始化)
-
 ## 创建项目
 
 先看一下整体的项目目录结构：

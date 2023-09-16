@@ -6,8 +6,6 @@ draft: false
 summary: Unique Binary Search Tree
 ---
 
-# 不同的二叉搜索树
-
 什么是二叉搜索树，总结一句话就是 **左孩子所有结点比父节点小，右孩子所有结点比父节点大，中序遍历有序**
 
 ## java

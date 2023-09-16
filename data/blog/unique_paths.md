@@ -6,8 +6,6 @@ draft: false
 summary: Unique Paths
 ---
 
-## 不同路径
-
 ## go
 
 ```go

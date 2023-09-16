@@ -6,8 +6,6 @@ draft: false
 summary: WSL2 Expose Port To Localhost
 ---
 
-# WSL2 暴露端口给主机，在主机的浏览器中访问该端口
-
 1. 在 WSL2 中启动您的应用程序，并监听 9090 端口。您可以在 WSL2 终端中使用命令行启动您的应用程序，例如：
 
    ```

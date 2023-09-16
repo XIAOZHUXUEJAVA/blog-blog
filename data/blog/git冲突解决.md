@@ -6,8 +6,6 @@ draft: false
 summary: Daily Little Knowledge Points
 ---
 
-# Git 冲突解决方案
-
 ## 问题
 
 当我们在使用 Git 向远程仓库提交代码时，可能会遇到如下所述的错误提示：

@@ -6,10 +6,6 @@ draft: false
 summary: Two Sum
 ---
 
-
-
-# 两数之和
-
 ## java
 
 ```java
@@ -34,7 +30,7 @@ public class TwoSum {
         }
     }
 
-    
+
     /*
      * @Title: twoSumUseDoublePointer
      * @Description: 返回的如果是具体的数，而不是坐标的话，我们可以使用双指针的方法
@@ -43,7 +39,7 @@ public class TwoSum {
      * @param nums
      * @param target
      * @return int[]
-     * @throws 
+     * @throws
      */
     public int[] twoSumUseDoublePointer(int[] nums, int target) {
         Arrays.sort(nums);
@@ -112,19 +108,17 @@ public class TwoSum {
 
 ```
 
-
-
 ## go
 
 ```go
 package arrays
 
 //
-// @Title twoSum 
-// @Description  
+// @Title twoSum
+// @Description
 // @Author zdp 2022-12-08 17:54:28
-// @Param nums 
-// @Param target 
+// @Param nums
+// @Param target
 // @Return []int
 //
 func twoSum(nums []int, target int) []int {
@@ -139,10 +133,10 @@ func twoSum(nums []int, target int) []int {
 }
 //
 // @Title twoSumUseMap
-// @Description  
+// @Description
 // @Author zdp 2022-12-08 17:54:34
-// @Param nums 
-// @Param target 
+// @Param nums
+// @Param target
 // @Return []int
 //
 func twoSumUseMap(nums []int, target int) []int {
@@ -159,8 +153,6 @@ func twoSumUseMap(nums []int, target int) []int {
 }
 
 ```
-
-
 
 ## c++
 
@@ -217,4 +209,3 @@ int main() {
     }
 }
 ```
-

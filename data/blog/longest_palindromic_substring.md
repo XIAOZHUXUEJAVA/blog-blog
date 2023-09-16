@@ -6,8 +6,6 @@ draft: false
 summary: Longest Palindoric Substring
 ---
 
-# 最长回文子串
-
 ## java
 
 ```java
