@@ -1,9 +1,9 @@
 ---
-title: HashMap必知必会
+title: 浅入HashMap
 date: '2023-09-16'
 tags: ['java']
 draft: false
-summary: HashMap的学习
+summary: HashMap
 ---
 
 `HashMap` 属于 Java 集合，实现了`Map`接口，以键值对(key-value)的方式存放数据。
