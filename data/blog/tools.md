@@ -10,9 +10,9 @@ summary: Useful Tools
 
 ### 1. Everything
 
-![image-20221229144014238](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291440348.png)
+![image-20231009142322453](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009142322453.png)
 
-![image-20221229145451227](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291454289.png)
+![image-20231009142234918](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009142234918.png)
 
 下载地址：
 
@@ -25,17 +25,18 @@ https://www.voidtools.com/zh-cn/downloads/
 1. 快速搜索速度："Everything"使用独特的搜索算法，即使在包含数百万文件的大硬盘上也能极快地搜索文件。
 2. 操作简单："Everything"具有简单明了的界面，适合各种技能水平的人使用。
 3. 系统资源占用少："Everything"是一款小巧轻量的程序，对系统资源要求很少，适合在老旧或速度较慢的电脑上使用。
-4. 可移植："Everything"可以从便携式硬盘运行，可以在多台电脑上使用，而无需在每台电脑上安装。
-5. 可定制："Everything"允许您自定义搜索文件的方式，包括排除搜索中的某些文件夹或文件类型。
-6. 定期更新："Everything"定期更新，添加新功能和改进，确保其保持可靠且有效的文件搜索工具。
+4. 可定制："Everything"允许您自定义搜索文件的方式，包括排除搜索中的某些文件夹或文件类型。
+5. 定期更新："Everything"定期更新，添加新功能和改进，确保其保持可靠且有效的文件搜索工具。
 
 ### 2. Carnac
 
-![image-20221229144524384](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291445418.png)
+![image-20231009142342816](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009142342816.png)
 
-![image-20221229150401120](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291504192.png)
+![image-20231009142615909](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009142615909.png)
 
-![image-20221229145614948](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291456002.png)
+相关设置
+
+![image-20231009142413439](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009142413439.png)
 
 下载地址：
 
@@ -48,14 +49,13 @@ Carnac 是一款实用工具，它在应用程序运行时显示被使用的键�
 1. 提高生产力：通过显示被使用的键盘快捷键，Carnac 可以帮助您学习新的快捷键并更有效地使用它们，从而提高生产力。
 2. 调试键盘问题：如果某些键盘快捷键无法按预期工作，Carnac 可以通过向应用程序发送快捷键来帮助您诊断问题。
 3. 可定制的显示：Carnac 允许您自定义快捷键的显示方式，包括字体、大小和颜色。
-4. 可移植：Carnac 可以从便携式硬盘运行，可以在多台电脑上使用，而无需在每台电脑上安装。
-5. 免费：Carnac 是一款免费的开源软件。
+4. 免费：Carnac 是一款免费的开源软件。
 
 ### 3. Ditto
 
-![image-20221229145201128](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291452163.png)
+![image-20231009142709563](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009142709563.png)
 
-![image-20221229145804995](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291458052.png)
+![image-20231009142721339](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009142721339.png)
 
 下载地址：
 
@@ -73,9 +73,9 @@ Ditto 是一款剪贴板管理工具，可以帮助用户管理、组织和重�
 
 ### 4. Snipaste
 
-![image-20221229145952050](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291459079.png)
+![image-20231009142733449](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009142733449.png)
 
-![image-20221229150524532](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291505584.png)
+![image-20231009142749007](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009142749007.png)
 
 下载地址：
 
@@ -93,9 +93,9 @@ Snipaste 是一款截屏和图像编辑工具，可以帮助您捕捉和编辑�
 
 ### 5. Typora
 
-![image-20221229150652902](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291506932.png)
+![image-20231009142805646](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009142805646.png)
 
-![image-20221229150825923](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291508031.png)
+![image-20231009142946329](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009142946329.png)
 
 下载地址(收费)：
 
@@ -111,13 +111,13 @@ Typora 是一款 Markdown 编辑器，支持实时预览和轻松的文档编写
 4. 多平台支持：Typora 可在 Windows、Linux 和 MacOS 平台上使用。
 5. 轻量级：Typora 是一款轻量级的软件，不会占用太多的系统资源。
 
-缺点是收费，但是。。。。
+缺点是收费
 
 ### 6. PicGo
 
-![image-20221229151321347](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291513381.png)
+![image-20231009143010560](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009143010560.png)
 
-![image-20221229151415550](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291514610.png)
+![image-20231009143026514](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009143026514.png)
 
 下载地址：
 
@@ -138,9 +138,9 @@ PicGo + Github + Typora = 白嫖来的无敌，但是也有一个缺点，就是
 
 ### 7. Geek
 
-![image-20221229152249640](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291522672.png)
+![image-20231009143034251](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009143034251.png)
 
-![image-20221229152703834](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291527888.png)
+![image-20231009143045883](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009143045883.png)
 
 下载地址：
 
@@ -156,7 +156,30 @@ GeekUninstaller 是一款用于卸载软件的工具。它主要面向专业开�
 4. 支持批量卸载：GeekUninstaller 支持批量卸载功能，可以一次性卸载多个软件。
 5. 免费开源：GeekUninstaller 是一款免费开源的软件，用户可以免费使用。
 
-## Website Softwares
+### 8. Obsidian
+
+![image-20231009161134871](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009161134871.png)
+
+![image-20231009161212281](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009161212281.png)
+
+Obsidian 是基于 Markdown 文件的本地知识管理软件，它有三个特点：
+
+1. 跨平台：支持 Windows、Mac、Linux、Android、IOS 全平台。如果不使用官方提供的数据服务，要自行解决多端数据同步的问题，Obsidian 社区里有免费的解决方案。
+
+2. 双向链接：双向链接就是高级版的 Tag，用 [[]] 将关键词概括起来，点击关键词的时候可以跳转或搜索到相应的同关键词下的内容，形成一个网络结构和笔记关联。
+
+3. 知识图谱：知识图谱以结构化的形式描述客观世界中概念、实体及其之间的关系，将信息表达成更接近人类认知世界的形式，提供了一种更好地组织、管理和理解海量信息的能力。Obsidian 提供了简单的知识图谱，让使用者快速了解到笔记之间的关联。
+
+4. 扩展主题和插件：Obsidian 社区提供了许多美观且丰富的主题，还贡献了很多提高生产力的插件。如果现有插件不能解决你的痛点，你也可以自己开发插件解决。
+5. 支持 Vim 模式
+
+### 9. Termius
+
+![](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009161800206.png)
+
+![image-20231009162921694](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009162921694.png)
+
+Termius 是一款远程访问和管理工具，旨在帮助用户轻松地远程连接到各种服务器和设备。它适用于多种操作系统，包括 Windows、macOS、Linux 和移动设备。
 
 ### 1. 时间显示壁纸
 
@@ -214,7 +237,7 @@ http://idea.javatiku.cn/
 
 ### 11. 壁纸网站
 
-这里有很多精美的壁纸，18+ ^\_^
+这里有很多精美的壁纸，18+
 
 https://wallhaven.cc/
 
@@ -236,8 +259,28 @@ https://ip.skk.moe/
 
 查看 IP 地址和网络连通性等
 
-## Google Plugins
+## Google Browser Plugins
 
 ### 1. DeepL 翻译：阅读写作神器
 
-### 2. JSON
+![image-20231009143427092](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009143427092.png)
+
+### 2. JSONView
+
+![image-20231009143444253](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009143444253.png)
+
+### 3. uBlock Origin
+
+![image-20231009143519215](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009143519215.png)
+
+### 4. Vue.js devtools
+
+![](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009143546015.png)
+
+### 5. YouTube™ 双字幕
+
+![image-20231009143632525](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009143632525.png)
+
+### 6. 沉浸式翻译
+
+![image-20231009144154617](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009144154617.png)
