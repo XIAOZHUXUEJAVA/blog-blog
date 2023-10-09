@@ -1,12 +1,12 @@
 ---
 title: 工具分享(持续更新)
-date: '2022-12-29'
+date: '2023-10-09'
 tags: ['share']
 draft: false
-summary: Useful Websites and Software
+summary: Useful Tools
 ---
 
-## software
+## Desktop Softwares
 
 ### 1. Everything
 
@@ -97,7 +97,7 @@ Snipaste 是一款截屏和图像编辑工具，可以帮助您捕捉和编辑�
 
 ![image-20221229150825923](https://raw.githubusercontent.com/XIAOZHUXUEJAVA/GraphBed/main/img/202212291508031.png)
 
-下载地址(收费但是你可以通过一些渠道获得)：
+下载地址(收费)：
 
 ```
 https://typoraio.cn/
@@ -156,7 +156,7 @@ GeekUninstaller 是一款用于卸载软件的工具。它主要面向专业开�
 4. 支持批量卸载：GeekUninstaller 支持批量卸载功能，可以一次性卸载多个软件。
 5. 免费开源：GeekUninstaller 是一款免费开源的软件，用户可以免费使用。
 
-## website
+## Website Softwares
 
 ### 1. 时间显示壁纸
 
@@ -174,7 +174,7 @@ https://www.pdfpai.com/
 
 ### 4. 在线 PS
 
-在线 PS? 在线糊弄老师！
+在线 PS? 在线糊弄作业！
 
 https://www.photopea.com/
 
@@ -235,3 +235,9 @@ https://zh.annas-archive.org/
 https://ip.skk.moe/
 
 查看 IP 地址和网络连通性等
+
+## Google Plugins
+
+### 1. DeepL 翻译：阅读写作神器
+
+### 2. JSON

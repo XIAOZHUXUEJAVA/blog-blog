@@ -10,7 +10,7 @@ summary: 使用双拼四个多月后的感受
 
 ![image-20230814201441243](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20230814201441243.png)
 
-使用双拼的话会是这样：
+使用拼的话会是这样：
 
 ![image-20230814201350613](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20230814201350613.png)
 
