@@ -162,6 +162,12 @@ GeekUninstaller 是一款用于卸载软件的工具。它主要面向专业开�
 
 ![image-20231009161212281](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009161212281.png)
 
+下载地址:
+
+```
+https://obsidian.md/download
+```
+
 Obsidian 是基于 Markdown 文件的本地知识管理软件，它有三个特点：
 
 1. 跨平台：支持 Windows、Mac、Linux、Android、IOS 全平台。如果不使用官方提供的数据服务，要自行解决多端数据同步的问题，Obsidian 社区里有免费的解决方案。
@@ -178,6 +184,12 @@ Obsidian 是基于 Markdown 文件的本地知识管理软件，它有三个特�
 ![](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009161800206.png)
 
 ![image-20231009162921694](https://xiaozhublog.oss-cn-qingdao.aliyuncs.com/myblogimg/image-20231009162921694.png)
+
+下载地址:
+
+```
+https://termius.com/
+```
 
 Termius 是一款远程访问和管理工具，旨在帮助用户轻松地远程连接到各种服务器和设备。它适用于多种操作系统，包括 Windows、macOS、Linux 和移动设备。
 
