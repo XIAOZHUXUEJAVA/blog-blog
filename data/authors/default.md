@@ -3,7 +3,7 @@ name: DP Piggy
 avatar: /static/images/avatar.png
 occupation: A student who is very eager to become a full-stack engineer in web development.
 email: xiaozhuzhulzq@163.com
-twitter: https://twitter.com/xiaozhulzq
+twitter: https://twitter.com/xiaozhudxiaozhu
 linkedin: https://www.linkedin.com
 github: https://github.com/XIAOZHUXUEJAVA
 ---
