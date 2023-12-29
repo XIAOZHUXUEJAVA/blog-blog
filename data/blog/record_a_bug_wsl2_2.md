@@ -20,8 +20,6 @@ summary: record a bug in wsl2
 
 3. 重新打开 windows terminal
 
-出现这种情况后，第一时间我是去 bing 搜索，在 csdn 中文社区找到了方案一，此方案虽然对我适用，但是还是会出现这样的问题，于是去 google 上寻找答案
-
 ## 方案二
 
 1. 重置网络相关设置，重启相关服务

@@ -6,7 +6,7 @@ draft: false
 summary: Bubble Sort
 ---
 
-Bubble sort is a classic sorting algorithm, and the followings are my implementation in Java, Go and Rust:
+Bubble sort is a classic sorting algorithm, and the followings are my implementation in Java, Go, C++ and Rust:
 
 ## Implementation in Java
 
@@ -122,4 +122,25 @@ fn bubble_sort(numbers: &mut [i32]) {
     }
 }
 
+```
+
+## Implementation in C++
+
+```c
+void bubbleSortWithFlag(vector<int> &nums) {
+        for (int i = nums.size() - 1; i > 0; i--) {
+            bool flag = false;
+            for (int j = 0; j < i; j++) {
+                if (nums[j] > nums[j + 1]) {
+                    int temp = nums[j];
+                    nums[j] = nums[j + 1];
+                    nums[j + 1] = temp;
+                    flag = true;
+                }
+            }
+            if (!flag) {
+                break;
+            }
+        }
+    }
 ```

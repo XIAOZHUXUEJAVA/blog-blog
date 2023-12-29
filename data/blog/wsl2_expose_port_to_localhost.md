@@ -22,7 +22,7 @@ summary: WSL2 Expose Port To Localhost
 
    这个命令将返回 WSL2 中的 IP 地址。请将该 IP 地址记录下来，稍后会用到。
 
-3. 在 Windows 10 中启动 PowerShell，以管理员身份运行。在 PowerShell 或者 CMD 中，使用以下命令来开放 WSL2 的 9090 端口：
+3. 在 Windows 10/11 中启动 PowerShell，以管理员身份运行。在 PowerShell 或者 CMD 中，使用以下命令来开放 WSL2 的 9090 端口：
 
    ```
    netsh interface portproxy add v4tov4 listenport=9090 listenaddress=0.0.0.0 connectport=9090 connectaddress=<wsl2_ip_address>
@@ -30,7 +30,7 @@ summary: WSL2 Expose Port To Localhost
 
    将 `<wsl2_ip_address>` 替换为您在上一步中获取的 WSL2 IP 地址。
 
-4. 在 Windows 10 中启动浏览器，并输入以下地址：
+4. 在 Windows 10/11 中启动浏览器，并输入以下地址：
 
    ```
    http://localhost:9090

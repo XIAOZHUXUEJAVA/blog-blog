@@ -33,5 +33,3 @@ bcdedit /set hypervisorlaunchtype auto
 经过这 4 个步骤后，我的 WSL2 又可以使用了。
 
 可能出错原因：本人是 Window10 操作系统，在经历一次更新之后便出现了问题, 因此大概率是 windows 的问题。
-
-**终极解决方案: 好好学习挣钱买 mac**

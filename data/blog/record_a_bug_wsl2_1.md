@@ -2,7 +2,7 @@
 title: 记录一个wsl2的BUG
 date: '2022-11-24'
 tags: ['linux', 'wsl2']
-draft: false
+draft: true
 summary: record a bug in wsl2
 ---
 

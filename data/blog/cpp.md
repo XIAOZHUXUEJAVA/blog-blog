@@ -2,7 +2,7 @@
 title: cpp singlylinkedlist
 date: '2022-03-08'
 tags: ['c++']
-draft: false
+draft: true
 summary: SinglyLinkedList Example of Cpp
 ---
 
@@ -112,4 +112,3 @@ int main() {
 }
 
 ```
-
